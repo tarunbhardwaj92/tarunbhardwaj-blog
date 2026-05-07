@@ -1,24 +1,26 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://tarunbhardwaj.org/"
+languageCode = "en-us"
 title = "Tarun Bhardwaj"
-theme = "mana"
-locale = "en-us"
+theme = "touchy"
 
 [pagination]
-pagerSize = 5
+pagerSize = 6
 
 [params]
-description = "Thoughts on psychology, meaning, growth, society, and ideas."
-
-[params.homeInfoParams]
-Title = "Hi, I'm Tarun."
-Content = "I write about ideas, psychology, meaning, growth, and questions most people never ask."
+author = "Tarun Bhardwaj"
+description = "Essays on ambition, psychology, modern life, careers, systems, and the questions people avoid asking."
 
 [[menu.main]]
-name = "Posts"
-url = "/posts/"
+name = "Home"
+url = "/"
 weight = 1
+
+[[menu.main]]
+name = "Blog"
+url = "/posts/"
+weight = 2
 
 [[menu.main]]
 name = "About"
 url = "/about/"
-weight = 2
+weight = 3
