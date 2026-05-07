@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tarun Bhardwaj</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Tarun Bhardwaj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Tarun.&lt;/p&gt;&#xA;&lt;p&gt;I write about psychology, ideas, meaning, growth, society, and questions people usually ignore.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Most People Never Question Life</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Most people are busy surviving.&lt;/p&gt;&#xA;&lt;p&gt;Very few stop and ask:&lt;/p&gt;&#xA;&lt;p&gt;Why am I doing what I am doing?&lt;/p&gt;&#xA;&lt;p&gt;Why do I believe what I believe?&lt;/p&gt;&#xA;&lt;p&gt;Why does society reward conformity more than awareness?&lt;/p&gt;&#xA;&lt;p&gt;This blog is my attempt to explore those questions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

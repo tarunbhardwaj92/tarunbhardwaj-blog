@@ -1,0 +1,24 @@
+baseURL = "http://localhost:1313/"
+title = "Tarun Bhardwaj"
+theme = "mana"
+locale = "en-us"
+
+[pagination]
+pagerSize = 5
+
+[params]
+description = "Thoughts on psychology, meaning, growth, society, and ideas."
+
+[params.homeInfoParams]
+Title = "Hi, I'm Tarun."
+Content = "I write about ideas, psychology, meaning, growth, and questions most people never ask."
+
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 2
